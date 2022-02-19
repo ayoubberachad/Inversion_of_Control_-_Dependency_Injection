@@ -1,0 +1,2 @@
+couplage.faible.DaoImpl
+metier.MetierImpl
